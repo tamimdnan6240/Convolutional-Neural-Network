@@ -1,2 +1,4 @@
-This a convolutional Neural Network just as U-Net to segment pavement crack from background. This code is taken from source of DeepCrack. We are planning to fine tune DeepCrack 
+This a convolutional Neural Network just as U-Net to segment pavement crack from background. This code is taken from source of DeepCrack (https://github.com/qinnzou/DeepCrack). We are planning to fine tune DeepCrack 
 on our pavement distress datasets. We are going through several test runs on CRACKTRE260 and EdmCrack600 and other published pavement distress datasets. 
+
+Before using this model to your research cite from Zou Q, Zhang Z, Li Q, Qi X, Wang Q and Wang S, DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection, IEEE Transactions on Image Processing, vol. 28, no. 3, pp. 1498-1512, 2019.
