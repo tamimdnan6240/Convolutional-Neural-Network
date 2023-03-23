@@ -1,0 +1,1000 @@
+   18  pwd
+   19  pwd 
+   20   ls
+   21  cd data
+   22  ls
+   23  vi train_example.txt 
+   24  ls
+   25  cd DeepCrack_Master/
+   26  ls
+   27  cd codes/
+   28  ls
+   29  shbatch shellscript.sh 
+   30  sbatch shellscript.sh 
+   31  squeue -u tadnan
+   32  sbatch shellscript.sh 
+   33  squeue -u tadnan
+   34  sbatch shellscript.sh 
+   35  squeue -u tadnan
+   36  sbatch shellscript.sh 
+   37  squeue -u tadnan
+   38  sbatch shellscript.sh 
+   39  squeue -u tadnan
+   40  sbatch shellscript.sh 
+   41  ls
+   42  cd DeepCrack_Master/
+   43  ls
+   44  cd codes
+   45  ls
+   46  sbatch shellscript.sh 
+   47  squeue -u tadnan
+   48  sbatch shellscript.sh 
+   49  squeue -u tadnan
+   50  sbatch shellscript.sh 
+   51  squeue -u tadnan
+   52  sbatch shellscript.sh 
+   53  squeue -u tadnan
+   54  sbatch shellscript.sh 
+   55  squeue -u tadnan
+   56  sbatch shellscript.sh 
+   57  squeue -u tadnan
+   58  sbatch shellscript.sh 
+   59  squeue -u tadnan
+   60  sbatch shellscript.sh 
+   61  squeue -u tadnan
+   62  sbatch shellscript.sh 
+   63  squeue -u tadnan
+   64  sbatch shellscript.sh 
+   65  squeue -u tadnan
+   66  sbatch shellscript.sh 
+   67  ls
+   68  cd DeepCrack_Master/
+   69  cd codes/
+   70  ls
+   71  sbatch shellscript.sh 
+   72  ls
+   73  cd DeepCrack_Master/
+   74  cd cdoes
+   75  cd codes
+   76  ls
+   77  sbatch shellscript.sh 
+   78  squeue -u tadnan
+   79  sbatch shellscript.sh 
+   80  squeue -u tadnan
+   81  sbatch shellscript.sh 
+   82  squeue -u tadnan
+   83  ls
+   84  cd DeepCrack_Master/
+   85  ls
+   86  cd codes/
+   87  ls
+   88  sbatch shellscript.sh 
+   89  squeue -u tadnan
+   90  sbatch shellscript.sh 
+   91  squeue -u tadnan
+   92  sbatch shellscript.sh 
+   93  squeue -u tadnan
+   94  sbatch shellscript.sh 
+   95  squeue -u tadnan
+   96  ls
+   97  pwd
+   98  sbatch shellscript.sh 
+   99  squeue -u tadnan
+  100  cd ..
+  101  ls
+  102  cd 'DeepCrack_Master (with Zach&Tianyang)'/
+  103  ls
+  104  cd codes
+  105  ls
+  106  sbatch shellscript.sh 
+  107  squeue -u tadnan
+  108  cd ..
+  109  pwd
+  110  ls
+  111  cd DeepCrack_Master
+  112  cd codes/
+  113  ls
+  114  sbatch shellscript.sh 
+  115  squeue -u tadnan
+  116  sbatch shellscript.sh 
+  117  squeue -u tadnan
+  118  sbatch shellscript.sh 
+  119  squeue -u tadnan
+  120  ls 
+  121  cd DeepCrack_Master
+  122  cd codes/
+  123  ls
+  124  sbatch shellscript.sh 
+  125  squeue -u tadnan
+  126  ls
+  127  cd DeepCrack_Master
+  128  ls
+  129  cd codes/
+  130  ls
+  131  sbatch shellscript.sh 
+  132  squeue -u tadnan
+  133  cd ..
+  134  ls
+  135  cd ..
+  136  ls
+  137  cd EdmCrack600_DeepCrack/
+  138  ls
+  139  cd codes/
+  140  ls
+  141  sbatch shellscript.sh 
+  142  squeue -u tadnan
+  143  sbatch shellscript.sh 
+  144  squeue -u tadnan
+  145  sbatch shellscript.sh 
+  146  squeue -u tadnan
+  147  sbatch shellscript.sh 
+  148  squeue -u tadnan
+  149  sbatch test.sh
+  150  squeue -u tadnan
+  151  sbatch test.sh
+  152  squeue -u tadnan
+  153  sbatch shellscript.sh 
+  154  squeue -u tadnan
+  155  sbatch test.sh
+  156  sbatch shellscript.sh 
+  157  squeue -u tadnan
+  158  sbatch shellscript.sh 
+  159  squeue -u tadnan
+  160  sbatch shellscript.sh 
+  161  squeue -u tadnan
+  162  sbatch shellscript.sh 
+  163  squeue -u tadnan
+  164  scancel 771581
+  165  squeue -u tadnan
+  166  sbatch shellscript.sh 
+  167  squeue -u tadnan
+  168  cd ..
+  169   cd..
+  170  ls
+  171  cd ..
+  172  ls
+  173  cd ..
+  174  ls
+  175  cd tadnan
+  176  ls
+  177  cd DeepCrack_Master
+  178  ls
+  179  cd codes/
+  180  ls
+  181  sbatch shellscript.sh 
+  182  squeue -u tadnan
+  183  cd ..
+  184  ls
+  185  cd EdmCrack600_DeepCrack/
+  186  cd codes
+  187  ls
+  188  sbatch test.sh 
+  189  squeue -u tadnan
+  190  ls
+  191  pwd
+  192  sbatch shellscript.sh 
+  193  cd ..
+  194  ls
+  195  cd DeepCrack_Master
+  196  ls
+  197  cd codes
+  198  ls
+  199  sbtach test.sh
+  200  sbatch test.sh
+  201  squeue -u tadnan
+  202  pwd
+  203  cd ..
+  204  ls
+  205  cd EdmCrack600_DeepCrack/
+  206  ls
+  207  cd codes/
+  208  ls
+  209  sbtach test.sh
+  210  pwd
+  211  sbatch test.sh
+  212  cd DeepCrack_Master
+  213  cd codes/
+  214  sbatch shellscript.sh 
+  215  squeue -u tadnan
+  216  scancel 871941
+  217  squeue -u tadnan
+  218  ls
+  219  cd DeepCrack_Master
+  220  pwd
+  221  cd codes/
+  222  ls
+  223  sbatch shellscript.sh 
+  224  squeue -u tadnan
+  225  scancel 872592
+  226  sbatch shellscript.sh 
+  227  squeue -u tadnan
+  228  scancel 875002
+  229  squeue -u tadnan
+  230  sbatch shellscript.sh 
+  231  squeue -u tadnan
+  232  scancel 875003
+  233  sbatch shellscript.sh 
+  234  squeue -u tadnan
+  235  scancel 875006
+  236  scancel 875007
+  237  squeue -u tadnan
+  238  sbatch shellscript.sh 
+  239  squeue -u tadnan
+  240  scancel 875009
+  241  squeue -u tadnan
+  242  sbatch shellscript.sh 
+  243  squeue -u tadnan
+  244  sbatch shellscript.sh 
+  245  squeue -u tadnan
+  246  sbatch shellscript.sh 
+  247  squeue -u tadnan
+  248  sbatch shellscript.sh 
+  249  squeue -u tadnan
+  250  sbatch shellscript.sh 
+  251  squeue -u tadnan
+  252  scancel 879924
+  253  sbatch shellscript.sh 
+  254  squeue -u tadnan
+  255  sbatch shellscript.sh 
+  256  squeue -u tadnan
+  257  sbatch shellscript.sh 
+  258  squeue -u tadnan
+  259  sbatch shellscript.sh 
+  260  squeue -u tadnan
+  261  ls
+  262  sbatch shellscript.sh 
+  263  cd DeepCrack_Master
+  264  cd codes/
+  265  sbatch shellscript.sh 
+  266  squeue -u tadnan
+  267  scancel 884324
+  268  sbatch shellscript.sh 
+  269  squeue -u tadnan
+  270  sbatch shellscript.sh 
+  271  squeue -u tadnan
+  272  sbatch shellscript.sh 
+  273  squeue -u tadnan
+  274  scanel 884339
+  275  scancel 884339
+  276  sbatch shellscript.sh 
+  277  squeue -u tadnan
+  278  scancel 884339
+  279  scancel 884341
+  280  squeue -u tadnan
+  281  sbatch shellscript.sh 
+  282  squeue -u tadnan
+  283  sbatch shellscript.sh 
+  284  squeue -u tadnan
+  285  sbatch shellscript.sh 
+  286  squeue -u tadnan
+  287  sbatch shellscript.sh 
+  288  squeue -u tadnan
+  289  ls
+  290  cd DeepCrack_Master
+  291   cd codes/
+  292  python train_cuda.py
+  293  sbatch shellscript.sh 
+  294  squeue -u tadnan
+  295  sbatch shellscript.sh 
+  296  squeue -u tadnan
+  297  sbatch shellscript.sh 
+  298  squeue -u tadnan
+  299  sbatch shellscript.sh 
+  300  squeue -u tadnan
+  301  sbatch shellscript.sh 
+  302  ls
+  303  cd DeepCrack_Master
+  304  cd codes/
+  305  ls
+  306  sbatch shellscript.sh 
+  307  squeue -u tadnan
+  308  scancel 884389
+  309  squeue -u tadnan
+  310  sbatch shellscript.sh 
+  311  squeue -u tadnan
+  312  sbatch shellscript.sh 
+  313  squeue -u tadnan
+  314  sbatch shellscript.sh 
+  315  squeue -u tadnan
+  316  sbatch shellscript.sh 
+  317  squeue -u tadnan
+  318  sbatch shellscript.sh 
+  319  squeue -u tadnan
+  320  sbatch shellscript.sh 
+  321  squeue -u tadnan
+  322  sbatch shellscript.sh 
+  323  squeue -u tadnan
+  324  sbatch shellscript.sh 
+  325  squeue -u tadnan
+  326  sbatch shellscript.sh 
+  327  squeue -u tadnan
+  328  sbatch shellscript.sh 
+  329  squeue -u tadnan
+  330  sbatch shellscript.sh 
+  331  squeue -u tadnan
+  332  sbatch shellscript.sh 
+  333  squeue -u tadnan
+  334  sbatch shellscript.sh 
+  335  squeue -u tadnan
+  336  sbatch shellscript.sh 
+  337  squeue -u tadnan
+  338  sbatch shellscript.sh 
+  339  squeue -u tadnan
+  340  sbatch shellscript.sh 
+  341  squeue -u tadnan
+  342  sbatch shellscript.sh 
+  343  squeue -u tadnan
+  344  sbatch shellscript.sh 
+  345  squeue -u tadnan
+  346  sbatch shellscript.sh 
+  347  squeue -u tadnan
+  348  sbatch shellscript.sh 
+  349  squeue -u tadnan
+  350  sbatch shellscript.sh 
+  351  squeue -u tadnan
+  352  sbatch shellscript.sh 
+  353  squeue -u tadnan
+  354  scancel 884424
+  355  sbatch shellscript.sh 
+  356  squeue -u tadnan
+  357  sbatch shellscript.sh 
+  358  squeue -u tadnan
+  359  sbatch shellscript.sh 
+  360  squeue -u tadnan
+  361  sbatch shellscript.sh 
+  362  squeue -u tadnan
+  363  sbatch shellscript.sh 
+  364  squeue -u tadnan
+  365  sbatch shellscript.sh 
+  366  squeue -u tadnan
+  367  sbatch shellscript.sh 
+  368  squeue -u tadnan
+  369  sbatch shellscript.sh 
+  370  squeue -u tadnan
+  371  sbatch shellscript.sh 
+  372  squeue -u tadnan
+  373  pwd
+  374  ls
+  375  Cd DeepCrack_Master
+  376  cd DeepCrack_Master
+  377  ls
+  378  cd codes/
+  379  ls
+  380  sbatch shellscript.sh 
+  381  squeue -u tadnan
+  382  ls
+  383  mkdir class_project
+  384  ls
+  385  cd class_project/
+  386  ls
+  387  mkdir data
+  388  ls
+  389  DeepCrack_Master
+  390  cd DeepCrack_Master
+  391  ls
+  392  cd codes
+  393  sbatch test.sh
+  394  squeue -u tadnan
+  395  sbatch test.sh
+  396  sbatch shellscript.sh 
+  397  squeue -u tadnan
+  398  sbatch test.sh
+  399  squeue -u tadnan
+  400  sbatch test.sh
+  401  squeue -u tadnan
+  402  sbatch test.sh
+  403  squeue -u tadnan
+  404  sbatch test.sh
+  405  squeue -u tadnan
+  406  sbatch test.sh
+  407  squeue -u tadnan
+  408  sbatch test.sh
+  409  squeue -u tadnan
+  410  sbatch test.sh
+  411  squeue -u tadnan
+  412  sbatch test.sh
+  413  squeue -u tadnan
+  414  sbatch test.sh
+  415  squeue -u tadnan
+  416  sbatch test.sh
+  417  squeue -u tadnan
+  418  sbatch test.sh
+  419  squeue -u tadnan
+  420  sbatch test.sh
+  421  squeue -u tadnan
+  422  sbatch test.sh
+  423  squeue -u tadnan
+  424  sbatch test.sh
+  425  squeue -u tadnan
+  426  sbatch test.sh
+  427  squeue -u tadnan
+  428  sbatch test.sh
+  429  squeue -u tadnan
+  430  sbatch test.sh
+  431  squeue -u tadnan
+  432  sbatch test.sh
+  433  squeue -u tadnan
+  434  sbatch test.sh
+  435  squeue -u tadnan
+  436  sbatch test.sh
+  437  squeue -u tadnan
+  438  sbatch test.sh
+  439  squeue -u tadnan
+  440  sbatch test.sh
+  441  squeue -u tadnan
+  442  sbatch test.sh
+  443  squeue -u tadnan
+  444  sbatch test.sh
+  445  squeue -u tadnan
+  446  sbatch test.sh
+  447  squeue -u tadnan
+  448  sbatch test.sh
+  449  squeue -u tadnan
+  450  sbatch test.sh
+  451  squeue -u tadnan
+  452  sbatch test.sh
+  453  squeue -u tadnan
+  454  sbatch test.sh
+  455  squeue -u tadnan
+  456  sbatch test.sh
+  457  squeue -u tadnan
+  458  sbatch test.sh
+  459  squeue -u tadnan
+  460  sbatch test.sh
+  461  squeue -u tadnan
+  462  sbatch test.sh
+  463  squeue -u tadnan
+  464  sbatch test.sh
+  465  squeue -u tadnan
+  466  sbatch test.sh
+  467  squeue -u tadnan
+  468  sbatch test.sh
+  469  squeue -u tadnan
+  470  sbatch test.sh
+  471  squeue -u tadnan
+  472  sbatch test.sh
+  473  squeue -u tadnan
+  474  sbatch shellscript.sh 
+  475  squeue -u tadnan
+  476  scancel 953156
+  477  squeue -u tadnan
+  478  sbatch shellscript.sh 
+  479  squeue -u tadnan
+  480  sbatch shellscript.sh 
+  481  squeue -u tadnan
+  482  scancel 953162
+  483  squeue -u tadnan
+  484  sbatch shellscript.sh 
+  485  squeue -u tadnan
+  486  ls
+  487  cd DeepCrack_Master
+  488  ls
+  489  cd codes/
+  490  ls
+  491  sbatch shellscript.sh 
+  492  squeue -u tadnan
+  493  sbatch shellscript.sh 
+  494  squeue -u tadnan
+  495  sbatch shellscript.sh 
+  496  squeue -u tadnan
+  497  sbatch shellscript.sh 
+  498  squeue -u tadnan
+  499  sbatch shellscript.sh 
+  500  squeue -u tadnan
+  501  sbatch shellscript.sh 
+  502  squeue -u tadnan
+  503  sbatch shellscript.sh 
+  504  ls
+  505  cd DeepCrack_Master
+  506  ls
+  507  cd codes/
+  508  ls
+  509  sbatch test.sh
+  510  squeue -u tadnan
+  511  sbatch test.sh
+  512  squeue -u tadnan
+  513  sbatch test.sh
+  514  squeue -u tadnan
+  515  sbatch test.sh
+  516  squeue -u tadnan
+  517  sbatch test.sh
+  518  squeue -u tadnan
+  519  sbatch test.sh
+  520  squeue -u tadnan
+  521  sbatch test.sh
+  522  squeue -u tadnan
+  523  sbatch test.sh
+  524  squeue -u tadnan
+  525  sbatch test.sh
+  526  squeue -u tadnan
+  527  sbatch test.sh
+  528  squeue -u tadnan
+  529  sbatch test.sh
+  530  squeue -u tadnan
+  531  sbatch test.sh
+  532  squeue -u tadnan
+  533  sbatch test.sh
+  534  squeue -u tadnan
+  535  sbatch test.sh
+  536  squeue -u tadnan
+  537  sbatch test.sh
+  538  squeue -u tadnan
+  539  sbatch test.sh
+  540  squeue -u tadnan
+  541  sbatch test.sh
+  542  squeue -u tadnan
+  543  sbatch test.sh
+  544  squeue -u tadnan
+  545  sbatch test.sh
+  546  squeue -u tadnan
+  547  sbatch test.sh
+  548  squeue -u tadnan
+  549  sbatch test.sh
+  550  squeue -u tadnan
+  551  sbatch test.sh
+  552  squeue -u tadnan
+  553  sbatch test.sh
+  554  squeue -u tadnan
+  555  sbatch test.sh
+  556  squeue -u tadnan
+  557  sbatch test.sh
+  558  squeue -u tadnan
+  559  sbatch test.sh
+  560  squeue -u tadnan
+  561  sbatch test.sh
+  562  squeue -u tadnan
+  563  sbatch test.sh
+  564  squeue -u tadnan
+  565  sbatch test.sh
+  566  squeue -u tadnan
+  567  sbatch test.sh
+  568  squeue -u tadnan
+  569  sbatch test.sh
+  570  squeue -u tadnan
+  571  sbatch test.sh
+  572  squeue -u tadnan
+  573  sbatch test.sh
+  574  squeue -u tadnan
+  575  sbatch test.sh
+  576  squeue -u tadnan
+  577  sbatch test.sh
+  578  squeue -u tadnan
+  579  sbatch test.sh
+  580  squeue -u tadnan
+  581  sbatch test.sh
+  582  squeue -u tadnan
+  583  sbatch test.sh
+  584  squeue -u tadnan
+  585  sbatch test.sh
+  586  squeue -u tadnan
+  587  sbatch test.sh
+  588  squeue -u tadnan
+  589  sbatch test.sh
+  590  squeue -u tadnan
+  591  sbatch test.sh
+  592  squeue -u tadnan
+  593  sbatch test.sh
+  594  squeue -u tadnan
+  595  sbatch test.sh
+  596  squeue -u tadnan
+  597  sbatch test.sh
+  598  sbatch shellscript.sh 
+  599  scancel 991280
+  600  sbatch shellscript.sh 
+  601  scancel 991295
+  602  squeue -u tadnan
+  603  sbatch shellscript.sh 
+  604  squeue -u tadnan
+  605  scancel 991297
+  606  squeue -u tadnan
+  607  sbatch shellscript.sh 
+  608  squeue -u tadnan
+  609  sbatch shellscript.sh 
+  610  squeue -u tadnan
+  611  sbatch shellscript.sh 
+  612  squeue -u tadnan
+  613  sbatch shellscript.sh 
+  614  squeue -u tadnan
+  615  sbatch shellscript.sh 
+  616  squeue -u tadnan
+  617  sbatch shellscript.sh 
+  618  squeue -u tadnan
+  619  sbatch shellscript.sh 
+  620  scancel 991356
+  621  sbatch shellscript.sh 
+  622  squeue -u tadnan
+  623  scancel 991366
+  624  squeue -u tadnan
+  625  sbatch shellscript.sh 
+  626  squeue -u tadnan
+  627  scancel 99368
+  628  sbatch shellscript.sh 
+  629  squeue -u tadnan
+  630  scancel 991368
+  631  squeue -u tadnan
+  632  scancel 991373
+  633  squeue -u tadnan
+  634  scancel 991373
+  635  squeue -u tadnan
+  636  sbatch shellscript.sh 
+  637  squeue -u tadnan
+  638  sbatch shellscript.sh 
+  639  squeue -u tadnan
+  640  sbatch shellscript.sh 
+  641  squeue -u tadnan
+  642  sbatch shellscript.sh 
+  643  squeue -u tadnan
+  644  sbatch shellscript.sh 
+  645  squeue -u tadnan
+  646  sbatch shellscript.sh 
+  647  squeue -u tadnan
+  648  sbatch shellscript.sh 
+  649  squeue -u tadnan
+  650  sbatch shellscript.sh 
+  651  squeue -u tadnan
+  652  sbatch shellscript.sh 
+  653  squeue -u tadnan
+  654  sbatch shellscript.sh 
+  655  squeue -u tadnan
+  656  sbatch shellscript.sh 
+  657  squeue -u tadnan
+  658  sbatch shellscript.sh 
+  659  squeue -u tadnan
+  660  sbatch shellscript.sh 
+  661  squeue -u tadnan
+  662  sbatch shellscript.sh 
+  663  squeue -u tadnan
+  664  sbatch shellscript.sh 
+  665  squeue -u tadnan
+  666  sbatch shellscript.sh 
+  667  squeue -u tadnan
+  668  sbatch shellscript.sh 
+  669  squeue -u tadnan
+  670  sbatch shellscript.sh 
+  671  squeue -u tadnan
+  672  sbatch shellscript.sh 
+  673  squeue -u tadnan
+  674  sbatch shellscript.sh 
+  675  squeue -u tadnan
+  676  sbatch shellscript.sh 
+  677  squeue -u tadnan
+  678  sbatch shellscript.sh 
+  679  squeue -u tadnan
+  680  sbatch shellscript.sh 
+  681  squeue -u tadnan
+  682  scancel 991434
+  683  squeue -u tadnan
+  684  scancel 991434
+  685  squeue -u tadnan
+  686  sbatch shellscript.sh 
+  687  squeue -u tadnan
+  688  sbatch test.sh
+  689  squeue -u tadnan
+  690  sbatch test.sh
+  691  squeue -u tadnan
+  692  sbatch test.sh
+  693  squeue -u tadnan
+  694  sbatch test.sh
+  695  squeue -u tadnan
+  696  sbatch test.sh
+  697  squeue -u tadnan
+  698  sbatch test.sh
+  699  squeue -u tadnan
+  700  sbatch test.sh
+  701  squeue -u tadnan
+  702  sbatch test.sh
+  703  squeue -u tadnan
+  704  sbatch test.sh
+  705  squeue -u tadnan
+  706  sbatch test.sh
+  707  squeue -u tadnan
+  708  sbatch test.sh
+  709  squeue -u tadnan
+  710  sbatch test.sh
+  711  squeue -u tadnan
+  712  sbatch test.sh
+  713  squeue -u tadnan
+  714  sbatch test.sh
+  715  squeue -u tadnan
+  716  sbatch test.sh
+  717  squeue -u tadnan
+  718  sbatch test.sh
+  719  squeue -u tadnan
+  720  sbatch test.sh
+  721  squeue -u tadnan
+  722  sbatch test.sh
+  723  squeue -u tadnan
+  724  sbatch test.sh
+  725  squeue -u tadnan
+  726  sbatch test.sh
+  727  squeue -u tadnan
+  728  sbatch test.sh
+  729  squeue -u tadnan
+  730  sbatch test.sh
+  731  squeue -u tadnan
+  732  sbatch test.sh
+  733  squeue -u tadnan
+  734  sbatch test.sh
+  735  squeue -u tadnan
+  736  sbatch test.sh
+  737  squeue -u tadnan
+  738  sbatch sbatch shellscript.sh 
+  739  sbatch shellscript.sh 
+  740  squeue -u tadnan
+  741  sbatch test.sh
+  742  squeue -u tadnan
+  743  sbatch test.sh
+  744  squeue -u tadnan
+  745  sbatch shellscript.sh 
+  746  squeue -u tadnan
+  747  who
+  748  squeue -u tadnan
+  749  sbatch test.sh
+  750  squeue -u tadnan
+  751  ls
+  752  cd DeepCrack_Master
+  753  ls
+  754  cd codes/
+  755  ls
+  756  sbatch shellscript.sh 
+  757  squeue -u tadnan
+  758  sbatch test.sh
+  759  squeue -u tadnan
+  760  sbatch shellscript.sh 
+  761  squeue -u tadnan
+  762  ls
+  763  cd DeepCrack_Master
+  764  cd codes/
+  765  ls
+  766  sbatch test.sh
+  767  squeue -u tadnan
+  768  ls
+  769  cd DeepCrack_Master
+  770  ls
+  771  cd codes
+  772  ls
+  773  sbatch test.sh 
+  774  squeue -u tadnan 
+  775  pip install numpy install -q -U segmentation-models-pytorch albumentations 
+  776  pip install -q -U segmentation-models-pytorch albumentations
+  777  python
+  778  pip install virtualenv
+  779  python 
+  780     File "/usr/lib/python3.6/site-packages/pip/req/req_install.py", line 1069, in move_wheel_files
+  781      strip_file_prefix=strip_file_prefix,
+  782    File "/usr/lib/python3.6/site-packages/pip/wheel.py", line 345, in move_wheel_files
+  783      clobber(source, lib_dir, True)
+  784    File "/usr/lib/python3.6/site-packages/pip/wheel.py", line 287, in clobber
+  785      ensure_dir(dest)  # common for the 'include' path
+  786    File "/usr/lib/python3.6/site-packages/pip/utils/__init__.py", line 83, in ensure_dir
+  787      os.makedirs(path)
+  788    File "/usr/lib64/python3.6/os.py", line 210, in makedirs
+  789      makedirs(head, mode, exist_ok)
+  790    File "/usr/lib64/python3.6/os.py", line 220, in makedirs
+  791      mkdir(name, mode)
+  792  PermissionError: [Errno 13] Permission denied: '/usr/local/lib/python3.6'
+  793  pip install -- tadnan package-segmentation-models-pytorch albumentations
+  794  pip install -- tadnan package- Numpy
+  795  cd ..
+  796   cd ..
+  797  ls
+  798  cd installations/
+  799   ls
+  800   pip install Requirements.txt
+  801   pip install -u  Requirements.txt
+  802  virtualenv venv
+  803  pip install -q -U segmentation-models-pytorch albumentations
+  804   pip install [options] -r <requirements file> [package-index-options] 
+  805  cd ..
+  806  make install  segmentation-models-pytorch albumentations
+  807  torch(__version__)
+  808  torch(.__version__)
+  809  module load pytorch 
+  810  pip install segmentation-models-pytorch
+  811  module avail
+  812  module avail()
+  813  module avail
+  814  cd DeepCrack_Master
+  815   cd codes/
+  816  ls
+  817  sbatch test.sh
+  818  squeue -u tadnan
+  819  sbatch test.sh
+  820  squeue -u tadnan
+  821  sbatch test.sh
+  822  squeue -u tadnan
+  823  sbatch shellscript.sh 
+  824  squeue -u tadnan
+  825  sbatch shellscript.sh 
+  826  squeue -u tadnan
+  827  sbatch shellscript.sh 
+  828  squeue -u tadnan
+  829  sbatch shellscript.sh 
+  830  squeue -u tadnan
+  831  sbatch shellscript.sh 
+  832  scancel 1003054
+  833  squeue -u tadnan
+  834  scancel 1003045
+  835  squeue -u tadnan
+  836  sbatch shellscript.sh 
+  837  squeue -u tadnan
+  838  sbatch shellscript.sh 
+  839  squeue -u tadnan
+  840  sbatch shellscript.sh 
+  841  squeue -u tadnan
+  842  scancel 1003064
+  843  squeue -u tadnan
+  844  sbatch shellscript.sh 
+  845  squeue -u tadnan
+  846  sbatch shellscript.sh 
+  847  squeue -u tadnan
+  848  scancel
+  849  scancel003075
+  850  scancel l003075
+  851  squeue -u tadnan
+  852  scancel 1003075
+  853  squeue -u tadnan
+  854  sbatch shellscript.sh 
+  855  squeue -u tadnan
+  856  sbatch shellscript.sh 
+  857  squeue -u tadnan
+  858  scancel 1003077
+  859  squeue -u tadnan
+  860  sbatch shellscript.sh 
+  861  squeue -u tadnan
+  862  sbatch shellscript.sh 
+  863  squeue -u tadnan
+  864  sbatch shellscript.sh 
+  865  squeue -u tadnan
+  866  sbatch shellscript.sh 
+  867  squeue -u tadnan
+  868  sbatch shellscript.sh 
+  869  squeue -u tadnan
+  870  sbatch shellscript.sh 
+  871  squeue -u tadnan
+  872  scancel 1003082
+  873  scancel 1003084
+  874  squeue -u tadnan
+  875  sbatch shellscript.sh 
+  876  squeue -u tadnan
+  877  sbatch shellscript.sh 
+  878  squeue -u tadnan
+  879  sbatch shellscript.sh 
+  880  squeue -u tadnan
+  881  sbatch shellscript.sh 
+  882  squeue -u tadnan
+  883  sbatch shellscript.sh 
+  884  squeue -u tadnan
+  885  sbatch shellscript.sh 
+  886  squeue -u tadnan
+  887  sbatch shellscript.sh 
+  888  squeue -u tadnan
+  889  sbatch shellscript.sh 
+  890  squeue -u tadnan
+  891  sbatch shellscript.sh 
+  892  squeue -u tadnan
+  893  sbatch shellscript.sh 
+  894  squeue -u tadnan
+  895  sbatch shellscript.sh 
+  896  squeue -u tadnan
+  897  scancel 1003134
+  898  squeue -u tadnan
+  899  sbatch shellscript.sh 
+  900  squeue -u tadnan
+  901  scancel 1003163
+  902  squeue -u tadnan
+  903  sbatch shellscript.sh 
+  904  squeue -u tadnan
+  905  sbatch shellscript.sh 
+  906  squeue -u tadnan
+  907  sbatch shellscript.sh 
+  908  squeue -u tadnan
+  909  scancel 1003179
+  910  squeue -u tadnan
+  911  scancel 1003183
+  912  squeue -u tadnan
+  913  sbatch shellscript.sh 
+  914  squeue -u tadnan
+  915  sbatch shellscript.sh 
+  916  squeue -u tadnan
+  917  ls
+  918  squeue -u tadnan
+  919  sbatch shellscript.sh 
+  920  ls
+  921  cd DeepCrack_Master
+  922  cd De
+  923  cd codes/
+  924  sbatch shellscript.sh 
+  925  squeue -u tadnan
+  926  sbatch shellscript.sh 
+  927  squeue -u tadnan
+  928  scancel 1003443
+  929  squeue -u tadnan
+  930  scancel 1003444
+  931  squeue -u tadnan
+  932  sbatch shellscript.sh 
+  933  squeue -u tadnan
+  934  sbatch shellscript.sh 
+  935  squeue -u tadnan
+  936  sbatch shellscript.sh 
+  937  squeue -u tadnan
+  938  sbatch shellscript.sh 
+  939  squeue -u tadnan
+  940  sbatch shellscript.sh 
+  941  squeue -u tadnan
+  942  sbatch shellscript.sh 
+  943  squeue -u tadnan
+  944  sbatch shellscript.sh 
+  945  squeue -u tadnan
+  946  sbatch shellscript.sh 
+  947  squeue -u tadnan
+  948  scancel 1003462
+  949  squeue -u tadnan
+  950  scancel 1003462
+  951  squeue -u tadnan
+  952  sbatch shellscript.sh 
+  953  squeue -u tadnan
+  954  sbatch shellscript.sh 
+  955  squeue -u tadnan
+  956  sbatch shellscript.sh 
+  957  squeue -u tadnan
+  958  sbatch shellscript.sh 
+  959  squeue -u tadnan
+  960  sbatch shellscript.sh 
+  961  squeue -u tadnan
+  962  sbatch shellscript.sh 
+  963  squeue -u tadnan
+  964  sbatch shellscript.sh 
+  965  squeue -u tadnan
+  966  ls
+  967  cd DeepCrack_Master
+  968  cd codes/
+  969  ls
+  970  sbatch shellscript.sh 
+  971  squeue -u tadnan
+  972  sbatch shellscript.sh 
+  973  squeue -u tadnan
+  974  sbatch shellscript.sh 
+  975  squeue -u tadnan
+  976  sbatch shellscript.sh 
+  977  squeue -u tadnan
+  978  sbatch shellscript.sh 
+  979  squeue -u tadnan
+  980  sbatch shellscript.sh 
+  981  squeue -u tadnan
+  982  sbatch shellscript.sh 
+  983  squeue -u tadnan
+  984  scancel 1003444
+  985  squeue -u tadnan
+  986  scancel 1003544
+  987  squeue -u tadnan
+  988  scancel 1003544
+  989  squeue -u tadnan
+  990  sbatch shellscript.sh 
+  991  squeue -u tadnan
+  992  ls
+  993  cd DeepCrack_Master
+  994  ls
+  995  cd codes/
+  996  ls
+  997  sbatch test.sh
+  998  squeue -u tadnan
+  999  sbatch shellscript.sh 
+ 1000  squeue -u tadnan
+ 1001  clear
+ 1002  ls
+ 1003  cd DeepCrack_Master
+ 1004  ls
+ 1005  cd codes/
+ 1006  ls
+ 1007  vi slurm-1003577.out 
+ 1008  cat slurm-1003577.out | grep Epoch
+ 1009  cat slurm-1003577.out | grep average_total_training_accuracy
+ 1010  cat slurm-1003577.out | grep average_total_training_accuracy > accuracy.txt
+ 1011  ls
+ 1012  vi accuracy.txt 
+ 1013  cat accuracy.txt | awk ' {print $NF}'
+ 1014  cat accuracy.txt | awk ' {print $NF}' > accuracy1.txt
+ 1015  vi accuracy1.txt 
+ 1016  history
+ 1017  history > ./history.txt
