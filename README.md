@@ -8,6 +8,6 @@ Before using this model to your research cite from Zou Q, Zhang Z, Li Q, Qi X, W
 
 ## VGG 19 
 
-Applied VGG 19 to predict the class of cracks in EdmCrack 600. I categorizied all of the 600 cracks into Longitudinal, Alligator, Transverse and Delaminations . Then tuned the VGG19 with different hyperparameters tp predict the pavemenent distress types. 
+Applied VGG 19 to predict the class of cracks in EdmCrack 600. I categorizied all of the 600 cracks into Longitudinal, Alligator, Transverse and Delaminations . Then tuned the VGG19 with different hyperparameters to predict the pavemenent distress types. 
 
 Ref: Q. Mei, M. Gül, and M.R. Azim, Densely connected deep neural network considering connectivity of pixels for automatic crack detection. Automation in Construction, 2020. 110: p. 103018. 
