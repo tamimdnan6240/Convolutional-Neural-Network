@@ -1,0 +1,9 @@
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10254.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10254.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10255.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10255.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10256.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10256.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10257.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10257.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10258.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10258.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10259.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10259.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10260.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10260.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10261.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10261.png
+./data/EdmCrack600/Data_Structure_RAW/transverse_512x512/10262.png	./data/EdmCrack600/Data_Structure_Annotated/transverse_512x512/10262.png
